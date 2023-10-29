@@ -166,9 +166,9 @@ class App extends Component {
           ) : (
             <MoviePage>
               <Imageicon src="./icons8-film-40.png" />
+              <WellCome> Well Come To Movie Finder</WellCome>
             </MoviePage>
           )}
-          <WellCome> Well Come To Movie Finder</WellCome>
         </MovieListContanier>
       </Container>
     );
